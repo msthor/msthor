@@ -11,8 +11,13 @@
 
 
 
+<div align="center">
 
-Building responsive, scalable and user-friendly web applications 🚀
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+Modern+Web+Applications+%F0%9F%9A%80;Turning+Ideas+into+Real+World+Web+Solutions+%F0%9F%92%A1;Full+Stack+Development+with+MERN+%E2%9A%9B%EF%B8%8F;Building+Responsive+%26+User+Friendly+UIs+%F0%9F%8E%A8;Learning+%26+Improving+Every+Day+%F0%9F%93%9A)](https://git.io/typing-svg)
+
+</div>
+
+<br>
 
 <p>
   <a href="https://github.com/msthor">

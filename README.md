@@ -33,6 +33,15 @@
 
 </div>
 
+<br>
+
+<div align="center">
+
+<img width="90%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:38BDF8,50:6366F1,100:A855F7"/>
+
+</div>
+
+<br>
 ---
 
 ## 👨‍💻 About Me

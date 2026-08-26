@@ -1,35 +1,22 @@
 <div align="center">
-<div align="center">
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    PREMIUM PROFILE HEADER                      -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Maheshvar%20Sain&fontSize=68&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20Developer&descSize=18&descAlignY=64&animation=fadeIn&color=0:020617,35:0F172A,70:312E81,100:7C3AED&fontColor=F8FAFC&descColor=BAE6FD"/>
 
-</div>
-
-
-
-<div align="center">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=760&lines=Building+Modern+Web+Applications+%F0%9F%9A%80;Turning+Ideas+into+Real+World+Web+Solutions+%F0%9F%92%A1;Full+Stack+Development+with+MERN+%E2%9A%9B%EF%B8%8F;Building+Responsive+%26+User+Friendly+UIs+%F0%9F%8E%A8;Learning+%26+Improving+Every+Day+%F0%9F%93%9A)](https://git.io/typing-svg)
-
-</div>
 
 <br>
 
-<p>
-  <a href="https://github.com/msthor">
-    <img src="https://img.shields.io/badge/GitHub-msthor-181717?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://www.linkedin.com/in/maheshvar-sain/">
-    <img src="https://img.shields.io/badge/LinkedIn-Maheshvar%20Sain-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://leetcode.com/u/msthor28/">
-    <img src="https://img.shields.io/badge/LeetCode-400%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
-</p>
+<a href="https://github.com/msthor">
+  <img src="https://img.shields.io/badge/GitHub-msthor-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Maheshvar%20Sain-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://leetcode.com/u/msthor28/">
+  <img src="https://img.shields.io/badge/LeetCode-400%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
 
 </div>
 
@@ -41,16 +28,16 @@
 
 </div>
 
-<br>
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Web Developer** with hands-on experience building responsive
-web applications using **React.js, Node.js, Express.js and MongoDB**.
+I'm a **Web Developer** with hands-on experience building
+responsive web applications using **React.js, Node.js, Express.js,
+and MongoDB**.
 
 I enjoy developing real-world applications, building REST APIs,
-integrating third-party services and solving complex problems.
+integrating third-party services, and solving complex problems.
 
 - 💻 Full Stack Web Development
 - ⚛️ React.js & Responsive UI Development
@@ -61,7 +48,7 @@ integrating third-party services and solving complex problems.
 - 💳 Razorpay Payment Integration
 - 📊 Zoho CRM Integration
 - 🧠 400+ DSA Problems Solved
-- 🚀 Always learning and building
+- 🚀 Always Learning & Building
 
 ---
 
@@ -70,31 +57,31 @@ integrating third-party services and solving complex problems.
 ### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=javascript,cpp,html,css" />
+  <img src="https://skillicons.dev/icons?i=javascript,cpp,html,css" />
 </p>
 
 ### ⚛️ Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind" />
 </p>
 
 ### 🟢 Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
 ### 🗄️ Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 ### ☁️ Cloud & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,git,github,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=aws,git,github,postman,vscode" />
 </p>
 
 **Also:** REST APIs • Zoho CRM • Razorpay • n8n • Replit AI • Lovable
@@ -107,41 +94,40 @@ integrating third-party services and solving complex problems.
 **Oct 2025 – 2026 | Jaipur**
 
 - Developed and maintained full-stack web applications using
-  **React.js, Node.js, Express.js and MongoDB**.
-- Built REST APIs and responsive frontend features.
+  **React.js, Node.js, Express.js, and MongoDB**.
+- Built REST APIs and responsive frontend features using HTML,
+  CSS, and JavaScript.
 - Integrated **Zoho CRM** for lead management.
 - Integrated **Razorpay** for secure online payments.
-- Collaborated with the team on testing, debugging and feature development.
-
----
+- Collaborated with the team on testing, debugging, and iterative
+  feature development.
 
 ### 🏢 Developer Intern — Cbetter Consulting Services
 **Aug 2025 – Dec 2025**
 
 - Developed backend services and RESTful APIs using
   **Node.js and MongoDB**.
-- Performed manual testing and debugging.
+- Performed manual testing to identify and fix bugs.
 - Collaborated with frontend developers to improve application
   performance and stability.
-
----
 
 ### 🔬 Research Intern — MNIT Jaipur
 **CSE Department | May 2025 – July 2025**
 
-- Built a weather prediction system using basic ML.
-- Forecasted temperature, humidity and rainfall.
-- Worked on data preprocessing, feature selection and model training.
-- Developed a backend system integrated with an Android application.
-
----
+- Built a weather prediction system using basic ML to forecast
+  temperature, humidity, and rainfall.
+- Implemented data preprocessing, feature selection, and model
+  training to improve accuracy.
+- Developed a backend system integrated with an Android app for
+  real-time interaction.
 
 ### 🏢 Backend Development Intern — Prodesk IT
 **Remote | Apr 2025**
 
-- Built backend modules using **Node.js and Express.js**.
-- Designed MongoDB schemas.
-- Optimized data access and delivered features within sprint timelines.
+- Built backend modules using **Node.js and Express.js** with a
+  modular code structure.
+- Designed MongoDB schemas and optimized data access.
+- Delivered features within sprint timelines.
 
 ---
 
@@ -149,8 +135,8 @@ integrating third-party services and solving complex problems.
 
 ## 🛒 E-Commerce
 
-A full-stack e-commerce application built with JavaScript,
-focused on real-world shopping functionality.
+A full-stack e-commerce project focused on building a practical
+online shopping experience.
 
 **Tech:** JavaScript
 
@@ -160,37 +146,37 @@ focused on real-world shopping functionality.
 
 ## 🤖 ConverseAI Product Website
 
-A responsive production website built for showcasing AI agents
-and business services.
+A responsive production website built using React.js for showcasing
+AI agents and business services.
 
 ### Highlights
 
-- React.js based responsive UI
-- AI agent showcase
-- Service pages
-- Customer onboarding forms
-- Interactive booking system
-- Available-slot based meeting scheduling
-- Zoho CRM integration
-- SEO improvements
-- Meta tags & structured data
-- Performance and accessibility improvements
+- ⚛️ Responsive React.js frontend
+- 🤖 AI agent showcase
+- 📄 Service pages
+- 📝 Customer onboarding forms
+- 📅 Interactive booking system
+- 🔗 Zoho CRM integration
+- 🔍 SEO improvements
+- 📊 Meta tags & structured data
+- ⚡ Performance improvements
+- ♿ Accessibility enhancements
 
 **Tech:** React.js • Node.js • JavaScript • Zoho CRM
 
 ---
 
-## 💰 Rainbow Money — Campaign Landing Page
+## 💰 Rainbow Money — Client Campaign Landing Page
 
 A live production application developed for a client campaign.
 
 ### Highlights
 
-- Responsive React.js frontend
-- Real-time lead capture
-- Zoho CRM integration
-- Razorpay payment integration
-- Production-ready implementation
+- ⚛️ React.js frontend
+- 📱 Responsive design
+- 📊 Real-time lead capture
+- 🔗 Zoho CRM integration
+- 💳 Razorpay payment integration
 
 **Tech:** React.js • JavaScript • Zoho CRM • Razorpay
 
@@ -198,17 +184,17 @@ A live production application developed for a client campaign.
 
 ## 🏡 Wanderlust — Airbnb Clone
 
-A full-stack booking platform inspired by Airbnb.
+A full-stack booking platform built using Node.js, Express.js,
+and MongoDB.
 
 ### Highlights
 
-- User authentication
-- Authorization
-- CRUD operations
-- Property/listing functionality
-- MongoDB database
-- Backend API development
-- OOP-based implementation
+- 🔐 Authentication
+- 🛡️ Authorization
+- 📝 CRUD operations
+- 🗄️ MongoDB database
+- 🔗 Backend API development
+- 🧱 OOP-based implementation
 
 **Tech:** Node.js • Express.js • MongoDB
 
@@ -222,7 +208,7 @@ A full-stack booking platform inspired by Airbnb.
 
 <img src="https://img.shields.io/badge/LeetCode-400%2B%20Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/LeetCode-1750%2B%20Rating-orange?style=for-the-badge&logo=leetcode&logoColor=black"/>
+<img src="https://img.shields.io/badge/LeetCode-1750%2B%20Rating-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 
 <img src="https://img.shields.io/badge/GeeksforGeeks-Institute%20Rank%201-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 
@@ -240,18 +226,14 @@ A full-stack booking platform inspired by Airbnb.
 
 # 🏆 Achievements
 
-🏅 **400+ DSA problems solved on LeetCode**
-
-⭐ **1750+ LeetCode rating**
-
-🥇 **Institute Rank 1 on GeeksforGeeks**
-
-☁️ **AWS APAC Solutions Architecture Virtual Experience — Forage**
-
-💻 **Walmart USA Advanced Software Engineering Virtual Experience — Forage**
-
-☁️ Completed **3-month Salesforce Developer Training Program**
-covering Apex, SOQL, Lightning Web Components and Salesforce fundamentals.
+- 🏅 **400+ DSA Problems Solved on LeetCode**
+- ⭐ **1750+ LeetCode Rating**
+- 🥇 **Institute Rank 1 on GeeksforGeeks**
+- ☁️ **AWS APAC Solutions Architecture Virtual Experience — Forage**
+- 💻 **Walmart USA Advanced Software Engineering Virtual Experience — Forage**
+- ☁️ Completed a **3-month Salesforce Developer Training Program**
+  covering Apex, SOQL, Lightning Web Components, and Salesforce
+  platform fundamentals.
 
 ---
 
@@ -306,9 +288,9 @@ covering Apex, SOQL, Lightning Web Components and Salesforce fundamentals.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Full%20Stack-Developer-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Full%20Stack-Developer-2563EB?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/MERN-Stack-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MERN-Stack-16A34A?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/React-Developer-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 
@@ -323,15 +305,15 @@ covering Apex, SOQL, Lightning Web Components and Salesforce fundamentals.
 <div align="center">
 
 <a href="https://github.com/msthor">
-<img src="https://img.shields.io/badge/GitHub-msthor-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/GitHub-msthor-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/maheshvar-sain/">
-<img src="https://img.shields.io/badge/LinkedIn-Maheshvar%20Sain-0A66C2?style=for-the-badge&logo=linkedin"/>
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Maheshvar%20Sain-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="https://leetcode.com/u/msthor28/">
-<img src="https://img.shields.io/badge/LeetCode-msthor28-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/LeetCode-msthor28-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
 </div>

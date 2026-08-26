@@ -1,6 +1,14 @@
 <div align="center">
+<div align="center">
 
-# 👋 Hi, I'm Maheshvar Sain
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                    PREMIUM PROFILE HEADER                      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Tarun%20Prajapat&fontSize=68&fontAlignY=42&desc=Business%20Analyst%20%7C%20Data%20Analyst%20%7C%20Business%20Intelligence&descSize=18&descAlignY=64&animation=fadeIn&color=0:020617,35:0F172A,70:312E81,100:7C3AED&fontColor=F8FAFC&descColor=BAE6FD"/>
+
+</div>
+
 
 ### 💻 Full Stack Developer | MERN Stack | JavaScript
 

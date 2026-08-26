@@ -5,7 +5,7 @@
 <!--                    PREMIUM PROFILE HEADER                      -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Maheshvar%20Prajapat&fontSize=68&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack&descSize=18&descAlignY=64&animation=fadeIn&color=0:020617,35:0F172A,70:312E81,100:7C3AED&fontColor=F8FAFC&descColor=BAE6FD"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Maheshvar%20Prajapat&fontSize=68&fontAlignY=42&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20Developer&descSize=18&descAlignY=64&animation=fadeIn&color=0:020617,35:0F172A,70:312E81,100:7C3AED&fontColor=F8FAFC&descColor=BAE6FD"/>
 
 </div>
 
